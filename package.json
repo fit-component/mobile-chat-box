@@ -13,12 +13,11 @@
   "author": "huangziyi01",
   "license": "ISC",
   "dependencies": {
-    "classnames": "^2.2.3",
-    "jquery": "^2.2.0",
-    "lodash": "^4.0.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
-    "react-list": "^0.7.11",
-    "react-tappable": "^0.8.0"
+    "classnames": "^2.2.1",
+    "react-list": "^0.7.14",
+    "react-tappable": "^0.8.0",
+    "lodash": "^3.10.1"
   }
 }
