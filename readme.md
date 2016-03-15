@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-npm install fiten-chat-box /* or */ fis3 install fiten-chat-box
+npm install fiten-chat-box
 ````
