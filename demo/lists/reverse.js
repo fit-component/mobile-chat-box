@@ -1,7 +1,7 @@
 import React from 'react'
 import { Button, ButtonGroup } from 'fit-button'
-import Chat from 'fiten-chat'
-import ChatBox from 'fiten-chat-box'
+import Chat from 'fit-chat'
+import ChatBox from 'fit-chat-box'
 
 export default class Demo extends React.Component {
     constructor(props) {

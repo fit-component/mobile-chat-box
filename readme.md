@@ -3,5 +3,5 @@
 ---
 
 ````jsx
-npm install fiten-chat-box
+npm install fit-chat-box
 ````
