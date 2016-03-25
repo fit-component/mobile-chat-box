@@ -1,6 +1,6 @@
 {
   "name": "fit-chat-box",
-  "version": "1.0.55",
+  "version": "1.0.56",
   "description": "聊天盒子",
   "main": "lib/index.js",
   "scripts": {
