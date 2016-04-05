@@ -1,5 +1,5 @@
-/// <reference path="../react-list.d.ts" />
-/// <reference path="../react-tappable.d.ts" />
+/// <reference path="../../../../../typings-module/react-list.d.ts" />
+/// <reference path="../../../../../typings-module/react-tappable.d.ts" />
 
 import * as React from 'react'
 import * as ReactDOM from 'react-dom'

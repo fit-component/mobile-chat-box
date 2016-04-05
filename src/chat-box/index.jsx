@@ -1,5 +1,5 @@
-/// <reference path="../react-list.d.ts" />
-/// <reference path="../react-tappable.d.ts" />
+/// <reference path="../../../../../typings-module/react-list.d.ts" />
+/// <reference path="../../../../../typings-module/react-tappable.d.ts" />
 "use strict";
 var __extends = (this && this.__extends) || function (d, b) {
     for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p];
