@@ -1,2 +1,2 @@
 // @demo
-// basic:12 reverse:12 back-bottom:12 loading:12
+// basic:24 reverse:24 back-bottom:24 loading:24
