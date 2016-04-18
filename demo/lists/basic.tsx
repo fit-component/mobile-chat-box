@@ -42,7 +42,7 @@ export default class Demo extends React.Component<any,any> {
         return (
             <div>
                 <ChatBox
-                    height="300"
+                    height={300}
                     renderItem={this.renderItem.bind(this)}
                     ref="chatBox"/>
 
