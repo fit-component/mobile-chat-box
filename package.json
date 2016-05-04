@@ -1,6 +1,6 @@
 {
   "name": "fit-chat-box",
-  "version": "3.0.19",
+  "version": "3.1.1",
   "description": "聊天盒子",
   "main": "lib/index.js",
   "scripts": {
@@ -18,6 +18,6 @@
     "jquery": "^2.1.4",
     "react-list": "^0.7.18",
     "react-tappable": "^0.8.1",
-    "fit-transmit-transparently": "^3.0.19"
+    "fit-transmit-transparently": "^3.1.1"
   }
 }
