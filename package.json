@@ -1,6 +1,6 @@
 {
   "name": "fit-chat-box",
-  "version": "3.1.16",
+  "version": "3.1.20",
   "description": "聊天盒子",
   "main": "lib/index.js",
   "scripts": {
@@ -13,12 +13,12 @@
   "author": "huangziyi01",
   "license": "ISC",
   "dependencies": {
-    "react": "^15.0.1",
-    "react-dom": "^15.0.1",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
     "jquery": "^2.1.4",
     "react-list": "^0.7.18",
     "react-tappable": "^0.8.1",
-    "fit-transmit-transparently": "^3.1.15"
+    "fit-transmit-transparently": "^3.1.16"
   },
   "typings": "lib/index.d.ts"
 }
