@@ -5,3 +5,4 @@
 ````jsx
 npm install fit-chat-box
 ````
+
